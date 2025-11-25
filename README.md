@@ -1,2 +1,2 @@
 # Modelling-and-Simulation
-Repository for Imperial M&amp;S module submission. Included is the Wolfram Mathematica notebook and accompanying report. Enjoy!
+Repository for Imperial Modelling and Simulation 2025 module submission. Included is the Wolfram Mathematica notebook and accompanying report. Enjoy!
